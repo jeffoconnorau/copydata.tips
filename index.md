@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: page
+layout: home
 guid: 'http://copydata.tips/'
 panels_data:
 sbg_selected_sidebar:
