@@ -1,8 +1,7 @@
 ---
-id: 119
 title: Home
 layout: home
-guid: 'http://ruste.net/copydata.tips/?page_id=119'
+guid: 'http://copydata.tips/'
 panels_data:
 sbg_selected_sidebar:
     - 'a:1:{i:0;s:1:"0";}'
