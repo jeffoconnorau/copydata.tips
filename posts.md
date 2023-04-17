@@ -1,14 +1,12 @@
 ---
-layout: posts
+layout: post
 title: Posts
 ---
 
+Here is a list of all the posts on this blog:
+
 {% for post in site.posts %}
 
-<h2>{{ post.title }}</h2>
-
-<p>{{ post.date }}</p>
-
-<p>{{ post.content }}</p>
+  * [{{ post.title }}]({{ post.url }})
 
 {% endfor %}
