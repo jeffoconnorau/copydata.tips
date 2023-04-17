@@ -1,10 +1,8 @@
 ---
 id: 88
 title: Downloads
-date: '2014-08-11T13:05:15+10:00'
-author: joconnor
 layout: page
-guid: 'http://ruste.net/copydata.tips/?page_id=88'
+guid: 'http://copydata.tips/downloads'
 dsq_thread_id:
     - '2916885073'
 dsq_needs_sync:

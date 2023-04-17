@@ -1,10 +1,8 @@
 ---
 id: 5
 title: Author
-date: '2014-04-10T03:07:14+10:00'
-author: joconnor
 layout: page
-guid: 'http://ruste.net/copydata.tips/author/'
+guid: 'http://copydata.tips/author/'
 cyberchimps_page_sidebar:
     - full_width
 cyberchimps_page_title_toggle:
