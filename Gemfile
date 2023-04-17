@@ -10,7 +10,8 @@ gem "jekyll", ">= 4.3"
 #gem "classifier-reborn"
 #gem "json"
 #gem "kramdown-parser-gfm"
-gem "just-the-docs"
+#gem "just-the-docs"
+gem "beautiful-jekyll-theme"
 
 group :jekyll_plugins do
   gem "jekyll-sitemap"
