@@ -15,7 +15,8 @@ navbar-links:
   Author: "author"
   Resources:
     - Downloads: "downloads"
-  Author's home: "https://dcopydata.tips"
+  Home: "index"
+  Posts: "posts"
 
 round-avatar: false
 social-network-links:
