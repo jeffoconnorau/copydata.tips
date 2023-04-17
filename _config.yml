@@ -12,11 +12,11 @@ author: "Jeff OConnor"
 ###############################################
 
 navbar-links:
-  Author: "author"
-  Resources:
-    - Downloads: "downloads"
   Home: "index"
   Posts: "posts"
+  Resources:
+    - Downloads: "downloads"
+  Author: "author"
 
 round-avatar: false
 social-network-links:
