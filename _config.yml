@@ -6,6 +6,17 @@ theme: beautiful-jekyll-theme
 logo: "/assets/images/logo-black-lrg2-300x87.png"
 title: "Copy Data Tips"
 author: "Jeff OConnor"
+
+###############################################
+# --- List of links in the navigation bar --- #
+###############################################
+
+navbar-links:
+  Author: "author"
+  Resources:
+    - Downloads: "downloads"
+  Author's home: "https://dcopydata.tips"
+
 round-avatar: false
 social-network-links:
   twitter: jeffoconnorau
