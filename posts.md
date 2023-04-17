@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Posts
-author: joconnor
 ---
 
 Here is a list of all the posts on this blog:
