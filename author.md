@@ -16,7 +16,7 @@ cyberchimps_slider_lite_speed:
 cyberchimps_slider_lite_arrows:
     - '1'
 cyberchimps_slider_lite_slide_image_1:
-    - 'http://ruste.net/copydata.tips/wp-content/themes/gdminimal/elements/lib/images/slider/slide1.jpg'
+    - 'http://copydata.tips/wp-content/themes/gdminimal/elements/lib/images/slider/slide1.jpg'
 cyberchimps_slider_lite_slide_image_2:
     - ''
 cyberchimps_slider_lite_slide_image_3:
@@ -46,11 +46,11 @@ cyberchimps_product_title:
 cyberchimps_product_media_type:
     - '1'
 cyberchimps_product_image:
-    - 'http://ruste.net/copydata.tips/wp-content/themes/gdminimal/images/branding/product.jpg'
+    - 'http://copydata.tips/wp-content/themes/gdminimal/images/branding/product.jpg'
 cyberchimps_product_image_link_toggle:
     - '1'
 cyberchimps_product_image_link:
-    - 'http://ruste.net/copydata.tips'
+    - 'http://copydata.tips'
 callout_title:
     - CyberChimps
 callout_text:
