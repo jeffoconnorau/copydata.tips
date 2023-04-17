@@ -10,7 +10,7 @@ Encoding.default_internal = Encoding::UTF_8
 #gem "classifier-reborn"
 #gem "json"
 #gem "kramdown-parser-gfm"
-gem "beautiful-jekyll-theme"
+#gem "beautiful-jekyll-theme"
 
 #group :jekyll_plugins do
 #  gem "jekyll-sitemap"
