@@ -9,8 +9,7 @@ gem "jekyll", ">= 3.8"
 gem "jekyll-paginate-v2"
 #gem "classifier-reborn"
 #gem "json"
-#gem "kramdown-parser-gfm"
-#gem "just-the-docs"
+gem "kramdown-parser-gfm"
 gem "beautiful-jekyll-theme"
 
 group :jekyll_plugins do
