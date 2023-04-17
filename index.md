@@ -1,8 +1,6 @@
 ---
 id: 119
 title: Home
-date: '2014-09-01T10:06:30+10:00'
-author: joconnor
 layout: home
 guid: 'http://ruste.net/copydata.tips/?page_id=119'
 panels_data:
@@ -16,17 +14,5 @@ sbg_selected_sidebar_replacement:
 <div class="panel-layout" id="pl-119"><div class="panel-grid panel-no-style" id="pg-119-0"><div class="panel-grid-cell" id="pgc-119-0-0"><div class="so-panel widget widget_circleicon-widget panel-first-child panel-last-child" data-index="0" id="panel-119-0-0-0"><div class="circle-icon-box circle-icon-hide-box"><div class="circle-icon-wrapper">###   
 
 </div>#### Copy Data Tips
-
-You can edit this home page using our free, drag and drop Page Builder, or simply disable it to fall back to a standard blog. It's a powerful page building experience.
-
-</div></div></div><div class="panel-grid-cell" id="pgc-119-0-1"><div class="so-panel widget widget_text panel-first-child panel-last-child" data-index="1" id="panel-119-0-1-0">### Loads of Icons
-
-<div class="textwidget">This widget uses FontAwesome - giving you hundreds of icons. Or you could disable the icon and use your own image image. Great for testimonials.</div></div></div><div class="panel-grid-cell" id="pgc-119-0-2"><div class="so-panel widget widget_circleicon-widget panel-first-child panel-last-child" data-index="2" id="panel-119-0-2-0"><div class="circle-icon-box circle-icon-hide-box"><div class="circle-icon-wrapper">###   
-
-</div>#### Saves You Time
-
-Building your pages using a drag and drop page builder is a great experience that will save you time. Time is valuable. Don't waste it.
-
-</div></div></div></div><div class="panel-grid panel-has-style" id="pg-119-1"><div class="wide-grey panel-row-style panel-row-style-for-119-1"><div class="panel-grid-cell panel-grid-cell-empty" id="pgc-119-1-0"></div></div></div><div class="panel-grid panel-no-style" id="pg-119-2"><div class="panel-grid-cell panel-grid-cell-empty" id="pgc-119-2-0"></div><div class="panel-grid-cell" id="pgc-119-2-1"><div class="so-panel widget widget_text panel-first-child panel-last-child" data-index="3" id="panel-119-2-1-0"><div class="textwidget">There are a lot of widgets bundled with Page Builder. You can use them to bring your pages to life.
 
 </div></div></div></div></div>
