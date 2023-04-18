@@ -1,2 +1,12 @@
+# project
+_site
+.sass-cache
+.vagrant
+.bundle
+
+# general
 .DS_Store
+Thumbs.db
+
+Gemfile.lock
 vendor/
