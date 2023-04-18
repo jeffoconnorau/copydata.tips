@@ -1,12 +1,6 @@
 ---
-id: 88
 title: Downloads
 layout: page
-guid: 'http://copydata.tips/downloads'
-dsq_thread_id:
-    - '2916885073'
-dsq_needs_sync:
-    - '1'
 ---
 
 This page contains downloads for the community that might be useful. Actifio Visio and OmniGraffle Stencils are Copyright of Actifio, but the community is free to use to help with visual aids and diagrams.
