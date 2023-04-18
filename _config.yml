@@ -1,10 +1,9 @@
 url: 'https://copydata.tips'
 name: 'Copy Data Tips'
 description: 'Manage your Copy Data effectively'
-#theme: just-the-docs
 theme: beautiful-jekyll-theme
 title: "Copy Data Tips"
-author: "Jeff OConnor"
+author: "Jeff O'Connor"
 
 ###############################################
 # --- List of links in the navigation bar --- #
