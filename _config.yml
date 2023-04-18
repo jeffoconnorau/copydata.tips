@@ -62,16 +62,16 @@ keywords: "copy data,gcbdr,backupdr,actifio,vmware"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-col: "#000000"
+navbar-text-col: "#E6E6E6"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-col: "#000000"
+footer-text-col: "#E6E6E6"
+footer-link-col: "#E6E6E6"
 footer-hover-col: "#0085A1"
 
 #################################
