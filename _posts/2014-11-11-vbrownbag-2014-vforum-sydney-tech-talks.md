@@ -36,7 +36,7 @@ The ones I’ve watched so far and highly recommend are:
 
 5\. Michael Webster – [Enterprise Apps](https://www.youtube.com/watch?v=jyuoNMZlIaI&list=PL2rC-8e38bUVxVjFiDTVMEsh6z6KbhvKB&index=12 "Enterprise Apps")
 
-<div class="wp-caption alignnone" id="attachment_144" style="width: 658px">[![Software Defined Storage](http://ruste.net/copydata.tips/wp-content/uploads/2014/11/Davelloyd.png)](http://ruste.net/copydata.tips/wp-content/uploads/2014/11/Davelloyd.png)Software Defined Storage with the one and only Dave Lloyd
+[Software Defined Storage](http://copydata.tips/wp-content/uploads/2014/11/Davelloyd.png)](http://copydata.tips/wp-content/uploads/2014/11/Davelloyd.png)Software Defined Storage with the one and only Dave Lloyd
 
 </div>Judging by the content and easy consumption model, I hope to get through watching some more over the coming days. My session can be found here – [The Copy Data Conundrum](https://www.youtube.com/watch?v=ADCmxD0cqXM&list=PL2rC-8e38bUVxVjFiDTVMEsh6z6KbhvKB&index=6 "The Copy Data Conundrum")
 
