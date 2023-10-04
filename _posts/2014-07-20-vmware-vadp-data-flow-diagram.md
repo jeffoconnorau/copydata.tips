@@ -11,7 +11,7 @@ dsq_thread_id:
 format: image
 ---
 
-[![Actifio_VADP_Image](http://ruste.net/copydata.tips/wp-content/uploads/2014/07/Actifio_VADP-1024x685.png)](http://ruste.net/copydata.tips/wp-content/uploads/2014/07/Actifio_VADP.png)
+[![Actifio_VADP_Image](http://copydata.tips/wp-content/uploads/2014/07/Actifio_VADP-1024x685.png)](http://copydata.tips/wp-content/uploads/2014/07/Actifio_VADP.png)
 
 I just wanted to share this image I put together to help people understand the data flow of backup traffic for VMware virtual machines protected with Actifio.
 
