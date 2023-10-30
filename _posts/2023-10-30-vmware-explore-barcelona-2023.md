@@ -1,4 +1,5 @@
 ---
+id: 295
 title: 'VMware Explore Barcelona 2023'
 date: '2023-10-30T19:58:18+10:00'
 author: joconnor
