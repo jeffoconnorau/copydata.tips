@@ -20,7 +20,7 @@ tags:
 
 ![](https://copydata.tips/wp-content/uploads/2023/10/elevate-your-disaster-recovery-strategy.jpg)
 
-This is quick post to reference that I am heading to Barcelona next week, and excited to attend VMware Explore Barcelona 2023.
+This is quick post to reference that I am heading to Barcelona next week, and I am excited to attend VMware Explore Barcelona 2023.
 
 If you are in Barcelona for VMware Explore and want to discuss Disaster Recovery - \[CEIM2415BCNS\], then come check out this roundtable session my good friend Ibrahima N'Doye and I will be hosting. We'd love to see you there !
 
