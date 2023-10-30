@@ -1,16 +1,12 @@
 ---
-id: 295
 title: 'VMware Explore Barcelona 2023'
 date: '2023-10-30T19:58:18+10:00'
 author: joconnor
 layout: post
-guid: 'https://copydata.tips/?p=295'
-permalink: /2023/10/vmware-explore-barcelona-2023/
 sbg_selected_sidebar:
     - null
 sbg_selected_sidebar_replacement:
     - null
-image: /wp-content/uploads/2023/10/elevate-your-disaster-recovery-strategy.jpg
 tags:
     - Backup
     - google
