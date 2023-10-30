@@ -26,4 +26,5 @@ This is my first visit to the city of Barcelona, and I can't wait to meet many o
 
 Please click the link below to add this session to your content catalogue, and or stop by the booth to say Hello !
 
-![Link to Content Catalogue](https://lnkd.in/ehn4dBbk)
+[Link to Content Catalogue](https://lnkd.in/ehn4dBbk)
+
