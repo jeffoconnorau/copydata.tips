@@ -22,7 +22,7 @@ The focus of our session is about DR to the cloud. We will focus on Google Cloud
 
 This is my first visit to the city of Barcelona, and I can't wait to meet many of our current and future Google Cloud customers at the event. I will also be at the Google Cloud Booth every day, so please come past and say hello if you are attending.
 
-Please click the link below to add this session to your content catalogue, and or stop by the booth to say Hello !
+Please click the link below to add this session to your content catalogue, and or stop by the booth to say hello !
 
 [Link to Content Catalogue](https://lnkd.in/ehn4dBbk)
 
