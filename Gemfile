@@ -19,5 +19,5 @@ Encoding.default_internal = Encoding::UTF_8
 # gem "jekyll-paginate-v2"
 # end
 gem "rexml", ">= 3.3.6"
-
+gem "google-protobuf", ">= 3.25.5"
 gemspec
