@@ -20,5 +20,5 @@ Encoding.default_internal = Encoding::UTF_8
 # end
 gem "rexml", ">= 3.3.9"
 gem "google-protobuf", ">= 3.25.5"
-gem "webrick", "> 1.8.2"
+gem "webrick", "~> 1.8.2"
 gemspec
