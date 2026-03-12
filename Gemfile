@@ -18,9 +18,11 @@ Encoding.default_internal = Encoding::UTF_8
 #  gem "jekyll-last-modified-at"
 # gem "jekyll-paginate-v2"
 # end
-#group :development do
+
+gem 'base64'
+gem 'bigdecimal'
 gem "rake", "~> 12.0"
-#end
+
 gem "sassc"
 #gem "rexml", ">= 3.3.9"
 gem "rexml", "~> 3.3.9"
