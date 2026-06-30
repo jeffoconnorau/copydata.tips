@@ -22,6 +22,7 @@ Encoding.default_internal = Encoding::UTF_8
 gem 'base64'
 gem 'bigdecimal'
 gem "rake", "~> 12.0"
+gem "concurrent-ruby", "~>1.3.7"
 
 gem "sassc"
 #gem "rexml", ">= 3.3.9"
